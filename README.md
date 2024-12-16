@@ -22,6 +22,7 @@ Run command:
 
 ### FRONTEND
 - **running at**: `localhost:5173/` & `localhost:5173/vote` & `localhost:5173/leaderboard`
+> if voting page doesn't work properly, try voting through curl or postman, Endpoints info is down below
 
 
 
