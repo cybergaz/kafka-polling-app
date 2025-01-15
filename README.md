@@ -1,4 +1,5 @@
 ## KAFKA POLLING APP
+a simple polling app with kafka as a message broker integrated with web-sockets for real-time updates on both the frontend and backend
 
 ### Setup
 
